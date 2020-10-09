@@ -147,7 +147,7 @@
 					</ul>
 					<ul class="nav-secondary">
 						<li>
-							<a href="contact.html"><i class="fas fa-phone icon-left"></i>+91 637910840</a>
+							<a href="contact.html"><i class="fas fa-phone icon-left"></i>+91 6379108040</a>
 						</li>
 						<li>
 							<a href="contact.html"><i class="fas fa-comment icon-left"></i>Support Chat</a>
