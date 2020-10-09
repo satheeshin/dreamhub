@@ -12,10 +12,12 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
+Route::get('git', [App\Http\Controllers\GitController::class, 'index']);
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', [App\Http\Controllers\PageController::class, 'index']);
+
+Route::get('/products-cloud-hosting.html', [App\Http\Controllers\PageController::class, 'cloudHosting']);
+
 
 Auth::routes();
 
