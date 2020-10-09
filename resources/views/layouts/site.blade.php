@@ -140,7 +140,7 @@
 							</ul>
 						</li>
 						<li>
-						<a class="button button-secondary" href="{{ url('login') }}">
+						<a class="button button-secondary" href="{{ cpurl('login') }}">
 								<i class="fas fa-lock icon-left"></i>Client Login
 							</a>
 						</li>
