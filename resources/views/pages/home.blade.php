@@ -313,9 +313,9 @@
 		</header>
 		<div class="column-row align-center">
 			<div class="column-66">
-				<form class="form-full-width" method="get" action="domains/">
+				<form class="form-full-width" method="POST" action="{{ cpurl('cart.php?a=add&domain=register')}}">
 					<div class="group align-center form-row">
-						<input class="group-stretch" type="text" name="domain" placeholder="Get your next domain name">
+						<input class="group-stretch" type="text" name="query" placeholder="Get your next domain name">
 						<button class="button-secondary"><i class="fas fa-search icon-left"></i>Search</button>
 					</div>
 				</form>
