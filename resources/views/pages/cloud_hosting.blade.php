@@ -98,7 +98,7 @@
 									</ul>
 									<ul>
 										<li>
-											FREE SSL Certiicates;
+											FREE SSL Certificates
 										</li>
 										<li>
 											99.95% Uptime SLA
@@ -237,7 +237,7 @@
 									</ul>
 									<ul>
 										<li>
-											FREE SS Certificates
+											FREE SSL Certificates
 										</li>
 										<li>
 											99.95% Uptime SLA
@@ -326,10 +326,10 @@
 						<tbody>
 							<tr>
 								<td>10 Hosted Domains</td>
-								<td>$2.50 <small>/ month</small></td>
+								<td>₹ 990 <small>/ month</small></td>
 							</tr>
 							<tr>
-								<td>25 GB RAID 10 Storage</td>
+								<td>25 GB SSD Disk Space</td>
 								<td>$6.00 <small>/ month</small></td>
 							</tr>
 							<tr>
@@ -377,7 +377,7 @@
 								Medium traffic personal sites
 							</p>
 							<p class="product-price">
-								$9<span class="term">/ month</span>
+								₹ 99<span class="term">/ month</span>
 							</p>
 						</td>
 						<td>
@@ -388,7 +388,7 @@
 								High traffic corporate sites
 							</p>
 							<p class="product-price">
-								$18<span class="term">/ month</span>
+								₹ 179<span class="term">/ month</span>
 							</p>
 						</td>
 						<td>
@@ -399,27 +399,27 @@
 								Enterprise content management
 							</p>
 							<p class="product-price">
-								$36<span class="term">/ month</span>
+								₹ 259<span class="term">/ month</span>
 							</p>
 						</td>
 					</tr>
 					<tr>
 						<td>Hosted Domains</td>
+						<td>1</td>
+						<td>5</td>
 						<td>10</td>
-						<td>30</td>
-						<td>60</td>
 					</tr>
 					<tr>
-						<td>RAID 10 Storage</td>
+						<td>SSD Disk Space</td>
+						<td>5 GB</td>
+						<td>10 GB</td>
 						<td>25 GB</td>
-						<td>75 GB</td>
-						<td>150 GB</td>
 					</tr>
 					<tr>
 						<td>Premium Bandwidth</td>
-						<td>200 GB</td>
-						<td>600 GB</td>
-						<td>1200 GB</td>
+						<td>100 GB</td>
+						<td>250 GB</td>
+						<td>500 GB</td>
 					</tr>
 					<tr class="product-order">
 						<td></td>
