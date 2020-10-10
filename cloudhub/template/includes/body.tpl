@@ -1,1 +1,0 @@
-<body class="footer-dark srf-whmcs" data-phone-cc-input="{$phoneNumberInputStyle}">
