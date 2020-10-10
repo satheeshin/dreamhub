@@ -35,26 +35,23 @@
 									</p>
 								</div>
 								<div class="product-price">
-									$9<span class="term">/ month</span>
+									₹ 99<span class="term">/ month</span>
 								</div>
 								<div class="product-features">
 									<ul>
 										<li>
-											<strong>10</strong> Hosted Domains
+											<strong>1</strong> Hosted Domains
 										</li>
 										<li>
-											<strong>25 GB</strong> RAID 10 Storage
+											<strong>5 GB</strong> SSD Disk Space
 										</li>
 										<li>
-											<strong>200 GB</strong> Premium Bandwidth
+											<strong>100 GB</strong> Premium Bandwidth
 										</li>
 									</ul>
 									<ul>
 										<li>
-											Powered by cPanel&reg;
-										</li>
-										<li>
-											Dedicated IP Address
+											FREE SSL Certificates 
 										</li>
 										<li>
 											99.95% Uptime SLA
@@ -85,26 +82,23 @@
 									</p>
 								</div>
 								<div class="product-price">
-									$18<span class="term">/ month</span>
+									₹ 179<span class="term">/ month</span>
 								</div>
 								<div class="product-features">
 									<ul>
 										<li>
-											<strong>30</strong> Hosted Domains
+											<strong>5</strong> Hosted Domains
 										</li>
 										<li>
-											<strong>75 GB</strong> RAID 10 Storage
+											<strong>10 GB</strong> SSD Disk Space
 										</li>
 										<li>
-											<strong>600 GB</strong> Premium Bandwidth
+											<strong>250 GB</strong> Premium Bandwidth
 										</li>
 									</ul>
 									<ul>
 										<li>
-											Powered by cPanel&reg;
-										</li>
-										<li>
-											Dedicated IP Address
+											FREE SSL Certificates
 										</li>
 										<li>
 											99.95% Uptime SLA
@@ -132,26 +126,23 @@
 									</p>
 								</div>
 								<div class="product-price">
-									$36<span class="term">/ month</span>
+									₹ 259<span class="term">/ month</span>
 								</div>
 								<div class="product-features">
 									<ul>
 										<li>
-											<strong>60</strong> Hosted Domains
+											<strong>10</strong> Hosted Domains
 										</li>
 										<li>
-											<strong>150 GB</strong> RAID 10 Storage
+											<strong>25 GB</strong> SSD Disk Space
 										</li>
 										<li>
-											<strong>1200 GB</strong> Premium Bandwidth
+											<strong>500 GB</strong> Premium Bandwidth
 										</li>
 									</ul>
 									<ul>
 										<li>
-											Powered by cPanel&reg;
-										</li>
-										<li>
-											Dedicated IP Address
+											FREE SSL Certificates
 										</li>
 										<li>
 											99.95% Uptime SLA
@@ -183,7 +174,7 @@
 									</p>
 								</div>
 								<div class="product-price">
-									$90<span class="term">/ year</span>
+									₹ 1188<span class="term">/ year</span>
 								</div>
 								<div class="product-features">
 									<ul>
@@ -191,7 +182,7 @@
 											<strong>10</strong> Hosted Domains
 										</li>
 										<li>
-											<strong>25 GB</strong> RAID 10 Storage
+											<strong>25 GB</strong> SSD Disk Space
 										</li>
 										<li>
 											<strong>200 GB</strong> Premium Bandwidth
@@ -199,10 +190,7 @@
 									</ul>
 									<ul>
 										<li>
-											Powered by cPanel&reg;
-										</li>
-										<li>
-											Dedicated IP Address
+											FREE SSL Certificates
 										</li>
 										<li>
 											99.95% Uptime SLA
@@ -233,7 +221,7 @@
 									</p>
 								</div>
 								<div class="product-price">
-									$180<span class="term">/ year</span>
+									₹ 2148<span class="term">/ year</span>
 								</div>
 								<div class="product-features">
 									<ul>
@@ -241,7 +229,7 @@
 											<strong>30</strong> Hosted Domains
 										</li>
 										<li>
-											<strong>75 GB</strong> RAID 10 Storage
+											<strong>75 GB</strong> SSD Disk Space
 										</li>
 										<li>
 											<strong>600 GB</strong> Premium Bandwidth
@@ -249,10 +237,7 @@
 									</ul>
 									<ul>
 										<li>
-											Powered by cPanel&reg;
-										</li>
-										<li>
-											Dedicated IP Address
+											FREE SSL Certificates
 										</li>
 										<li>
 											99.95% Uptime SLA
@@ -280,7 +265,7 @@
 									</p>
 								</div>
 								<div class="product-price">
-									$360<span class="term">/ year</span>
+									₹ 3108<span class="term">/ year</span>
 								</div>
 								<div class="product-features">
 									<ul>
@@ -288,7 +273,7 @@
 											<strong>60</strong> Hosted Domains
 										</li>
 										<li>
-											<strong>150 GB</strong> RAID 10 Storage
+											<strong>150 GB</strong> SSD Disk Space
 										</li>
 										<li>
 											<strong>1200 GB</strong> Premium Bandwidth
@@ -296,10 +281,7 @@
 									</ul>
 									<ul>
 										<li>
-											Powered by cPanel&reg;
-										</li>
-										<li>
-											Dedicated IP Address
+											FREE SSL Certificates
 										</li>
 										<li>
 											99.95% Uptime SLA
@@ -344,10 +326,10 @@
 						<tbody>
 							<tr>
 								<td>10 Hosted Domains</td>
-								<td>$2.50 <small>/ month</small></td>
+								<td>₹ 990 <small>/ month</small></td>
 							</tr>
 							<tr>
-								<td>25 GB RAID 10 Storage</td>
+								<td>25 GB SSD Disk Space</td>
 								<td>$6.00 <small>/ month</small></td>
 							</tr>
 							<tr>
@@ -395,7 +377,7 @@
 								Medium traffic personal sites
 							</p>
 							<p class="product-price">
-								$9<span class="term">/ month</span>
+								₹ 99<span class="term">/ month</span>
 							</p>
 						</td>
 						<td>
@@ -406,7 +388,7 @@
 								High traffic corporate sites
 							</p>
 							<p class="product-price">
-								$18<span class="term">/ month</span>
+								₹ 179<span class="term">/ month</span>
 							</p>
 						</td>
 						<td>
@@ -417,27 +399,27 @@
 								Enterprise content management
 							</p>
 							<p class="product-price">
-								$36<span class="term">/ month</span>
+								₹ 259<span class="term">/ month</span>
 							</p>
 						</td>
 					</tr>
 					<tr>
 						<td>Hosted Domains</td>
+						<td>1</td>
+						<td>5</td>
 						<td>10</td>
-						<td>30</td>
-						<td>60</td>
 					</tr>
 					<tr>
-						<td>RAID 10 Storage</td>
+						<td>SSD Disk Space</td>
+						<td>5 GB</td>
+						<td>10 GB</td>
 						<td>25 GB</td>
-						<td>75 GB</td>
-						<td>150 GB</td>
 					</tr>
 					<tr>
 						<td>Premium Bandwidth</td>
-						<td>200 GB</td>
-						<td>600 GB</td>
-						<td>1200 GB</td>
+						<td>100 GB</td>
+						<td>250 GB</td>
+						<td>500 GB</td>
 					</tr>
 					<tr class="product-order">
 						<td></td>
