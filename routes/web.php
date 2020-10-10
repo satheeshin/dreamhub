@@ -14,6 +14,8 @@ use Illuminate\Support\Facades\Route;
 */
 Route::get('git', [App\Http\Controllers\GitController::class, 'index']);
 
+Route::get('cloudhub', [App\Http\Controllers\GitController::class, 'cloudhub']);
+
 Route::get('/', [App\Http\Controllers\PageController::class, 'index']);
 
 Route::get('/products-cloud-hosting.html', [App\Http\Controllers\PageController::class, 'cloudHosting']);
