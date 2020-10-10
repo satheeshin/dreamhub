@@ -179,13 +179,13 @@
 								<div class="product-features">
 									<ul>
 										<li>
-											<strong>10</strong> Hosted Domains
+											<strong>1</strong> Hosted Domains
 										</li>
 										<li>
-											<strong>25 GB</strong> SSD Disk Space
+											<strong>5 GB</strong> SSD Disk Space
 										</li>
 										<li>
-											<strong>200 GB</strong> Premium Bandwidth
+											<strong>100 GB</strong> Premium Bandwidth
 										</li>
 									</ul>
 									<ul>
@@ -226,13 +226,13 @@
 								<div class="product-features">
 									<ul>
 										<li>
-											<strong>30</strong> Hosted Domains
+											<strong>5</strong> Hosted Domains
 										</li>
 										<li>
-											<strong>75 GB</strong> SSD Disk Space
+											<strong>10 GB</strong> SSD Disk Space
 										</li>
 										<li>
-											<strong>600 GB</strong> Premium Bandwidth
+											<strong>250 GB</strong> Premium Bandwidth
 										</li>
 									</ul>
 									<ul>
@@ -270,13 +270,13 @@
 								<div class="product-features">
 									<ul>
 										<li>
-											<strong>60</strong> Hosted Domains
+											<strong>10</strong> Hosted Domains
 										</li>
 										<li>
-											<strong>150 GB</strong> SSD Disk Space
+											<strong>25 GB</strong> SSD Disk Space
 										</li>
 										<li>
-											<strong>1200 GB</strong> Premium Bandwidth
+											<strong>500 GB</strong> Premium Bandwidth
 										</li>
 									</ul>
 									<ul>
@@ -326,7 +326,7 @@
 						<tbody>
 							<tr>
 								<td>10 Hosted Domains</td>
-								<td>₹ 990 <small>/ month</small></td>
+								<td>₹ <small>/ month</small></td>
 							</tr>
 							<tr>
 								<td>25 GB SSD Disk Space</td>
