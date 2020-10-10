@@ -1,0 +1,2 @@
+<!-- <link rel="stylesheet" href="{$WEB_ROOT}/templates/{$template}/template/css/custom.css"> -->
+<!-- <link rel="stylesheet" href="{$WEB_ROOT}/templates/{$template}/template/css/custom-whmcs.css"> -->

@@ -1,0 +1,64 @@
+/**
+ * Primary Color
+ *
+ * Choose a value that works well with white foreground text.
+ * Used for links, buttons and other core elements.
+ *
+ * Default: #0098ef
+ */
+.srf-whmcs a,.srf-whmcs .btn-link,.srf-whmcs .btn-link:hover,.srf-whmcs .btn-link:focus,.srf-whmcs div.header-lined h1,.srf-whmcs #registration .sub-heading span,.srf-whmcs div.header-lined .breadcrumb>.active,.srf-whmcs #order-standard_cart .sub-heading span,.srf-whmcs #order-standard_cart .sub-heading-borderless span,.srf-whmcs #order-standard_cart .empty-cart .btn,.srf-whmcs #order-standard_cart .order-summary .btn-continue-shopping
+{
+	color: #844fe1;
+}
+
+.srf-whmcs .btn-primary,.srf-whmcs .btn-primary:hover,.srf-whmcs .btn-primary:focus,.srf-whmcs .pagination>.active>a,.srf-whmcs .pagination>.active>a:focus,.srf-whmcs .pagination>.active>a:hover,.srf-whmcs .pagination>.active>span,.srf-whmcs .pagination>.active>span:focus,.srf-whmcs .pagination>.active>span:hover,.srf-whmcs a.list-group-item.active,.srf-whmcs a.list-group-item.active:hover,.srf-whmcs a.list-group-item.active:focus,.srf-whmcs .panel-primary > .panel-heading,.srf-whmcs .panel-sidebar a.list-group-item.active,.srf-whmcs .panel-sidebar a.list-group-item.active:focus,.srf-whmcs .panel-sidebar a.list-group-item.active:hover
+{
+	background-color: #844fe1;
+}
+
+.srf-whmcs .btn-primary,.srf-whmcs .btn-primary:hover,.srf-whmcs .btn-primary:focus,.srf-whmcs .pagination>.active>a,.srf-whmcs .pagination>.active>a:focus,.srf-whmcs .pagination>.active>a:hover,.srf-whmcs .pagination>.active>span,.srf-whmcs .pagination>.active>span:focus,.srf-whmcs .pagination>.active>span:hover,.srf-whmcs a.list-group-item.active,.srf-whmcs a.list-group-item.active:hover,.srf-whmcs a.list-group-item.active:focus,.srf-whmcs .panel-primary > .panel-heading,.srf-whmcs .panel-sidebar a.list-group-item.active,.srf-whmcs .panel-sidebar a.list-group-item.active:focus,.srf-whmcs .panel-sidebar a.list-group-item.active:hover
+{
+	border-color: #844fe1;
+}
+
+/**
+ * Navigation Background
+ *
+ * The navigation should be visibly separated from the main
+ * header element, similar to the default notification bar.
+ * Choose a value that works well combined with your color
+ * scheme and white foreground text.
+ *
+ * Default: #00629a
+ */
+.srf-whmcs .navbar-main
+{
+	background-color: #663dad;
+}
+
+/**
+ * Home Banner Background
+ *
+ * This section is dark by default but can be changed to
+ * your liking. Choose a value that works well with
+ * white foreground text.
+ *
+ * Default: #2c3645
+ */
+.srf-whmcs section#home-banner
+{
+	background-color: #844fe1;
+}
+
+/**
+ * Home Banner Secondary Color
+ *
+ * Choose a value that works well combined with your current
+ * background color or set it to a transparent white.
+ *
+ * Default: #667791
+ */
+.srf-whmcs section#home-banner p
+{
+	color: rgba(255, 255, 255, 0.5);
+}
