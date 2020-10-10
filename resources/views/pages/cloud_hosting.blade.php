@@ -585,21 +585,21 @@
 					</tr>
 					<tr>
 						<td>Monthly</td>
-						<td>$9</td>
-						<td>$18</td>
-						<td>$36</td>
+						<td>₹ 99</td>
+						<td>₹ 179</td>
+						<td>₹ 259</td>
 					</tr>
 					<tr>
 						<td>Quarterly</td>
-						<td>$24</td>
-						<td>$48</td>
-						<td>$98</td>
+						<td>₹ 396</td>
+						<td>₹ 716</td>
+						<td>₹ 1036</td>
 					</tr>
 					<tr>
 						<td>Yearly</td>
-						<td>$90</td>
-						<td>$180</td>
-						<td>$360</td>
+						<td>₹ 1188</td>
+						<td>₹ 2148</td>
+						<td>₹ 3108</td>
 					</tr>
 				</tbody>
 			</table>
