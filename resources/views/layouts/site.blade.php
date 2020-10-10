@@ -156,7 +156,7 @@
 							<a href="knowledge-base.html"><i class="fas fa-question-circle icon-left"></i>Knowledge Base</a>
 						</li>
 						<li>
-							<a href="{{ url('register')}}"><i class="fas fa-user-plus icon-left"></i>Register</a>
+							<a href="{{ cpurl('register')}}"><i class="fas fa-user-plus icon-left"></i>Register</a>
 						</li>
 					</ul>
 				</nav>
