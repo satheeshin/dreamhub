@@ -627,7 +627,7 @@
 				<div class="column-33">
 					<div class="testimonial">
 						<p class="testimonial-content">
-							My customers didn't experience a single minute of downtime since I moved my services over to Cloudhub.
+							My customers didn't experience a single minute of downtime since I moved my services over to DreamHost.
 						</p>
 						<p class="testimonial-author">
 							<a href="#twitter"><i class="fab fa-twitter icon-left"></i>Peter Miller</a><br>
@@ -638,7 +638,7 @@
 				<div class="column-33">
 					<div class="testimonial">
 						<p class="testimonial-content">
-							Cloudhub helped me with a professional custom server solution when my business was so rapidly growing my old system couldn't handle the load anymore.
+							DreamHost helped me with a professional custom server solution when my business was so rapidly growing my old system couldn't handle the load anymore.
 						</p>
 						<p class="testimonial-author">
 							<a href="#twitter"><i class="fab fa-twitter icon-left"></i>John Smith</a><br>
@@ -649,7 +649,7 @@
 				<div class="column-33">
 					<div class="testimonial">
 						<p class="testimonial-content">
-							By switching to Cloudhub's Anycast DNS system we were able to decrease the worldwide app latency immensely.
+							By switching to DreamHost's Anycast DNS system we were able to decrease the worldwide app latency immensely.
 						</p>
 						<p class="testimonial-author">
 							<a href="#twitter"><i class="fab fa-twitter icon-left"></i>Mary Fonda</a><br>
