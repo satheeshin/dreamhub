@@ -326,19 +326,19 @@
 						<tbody>
 							<tr>
 								<td>10 Hosted Domains</td>
-								<td>₹ <small>/ month</small></td>
+								<td>₹ 199<small>/ month</small></td>
 							</tr>
 							<tr>
 								<td>25 GB SSD Disk Space</td>
-								<td>$6.00 <small>/ month</small></td>
+								<td>₹ 99<small>/ month</small></td>
 							</tr>
 							<tr>
 								<td>200 GB Premium Bandwidth</td>
-								<td>$8.00 <small>/ month</small></td>
+								<td>₹ 179<small>/ month</small></td>
 							</tr>
 							<tr>
 								<td>1 Dedicated IP Address</td>
-								<td>$3.50 <small>/ month</small></td>
+								<td>₹ 100<small>/ month</small></td>
 							</tr>
 						</tbody>
 					</table>
