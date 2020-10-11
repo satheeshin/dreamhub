@@ -424,17 +424,17 @@
 					<tr class="product-order">
 						<td></td>
 						<td>
-							<a class="button button-secondary" href="products-cloud-hosting.html#cloud-starter-monthly">
+						<a class="button button-secondary" href="{{ cpurl('cart.php?a=add&pid=1') }}">
 								<i class="fas fa-shopping-cart icon-left"></i>Order Now
 							</a>
 						</td>
 						<td>
-							<a class="button button-secondary" href="products-cloud-hosting.html#cloud-business-monthly">
+						<a class="button button-secondary" href="{{ cpurl('cart.php?a=add&pid=2') }}">
 								<i class="fas fa-shopping-cart icon-left"></i>Order Now
 							</a>
 						</td>
 						<td>
-							<a class="button button-secondary" href="products-cloud-hosting.html#cloud-enterprise-monthly">
+						<a class="button button-secondary" href="{{ cpurl('cart.php?a=add&pid=3') }}">
 								<i class="fas fa-shopping-cart icon-left"></i>Order Now
 							</a>
 						</td>
