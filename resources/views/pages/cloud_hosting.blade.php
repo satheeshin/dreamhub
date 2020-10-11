@@ -669,7 +669,7 @@
 				</h2>
 				<p>
 					Our technicians can provide you with the best custom made solutions on the market, no matter whether you're a small business or large enterprise.<br><br>
-					<a class="button button-secondary" href="contact.html">
+					<a class="button button-secondary" href="{{ cpurl('contact.php') }}">
 						<i class="fas fa-envelope icon-left"></i>Get in touch
 					</a>
 				</p>
