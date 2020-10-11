@@ -62,7 +62,7 @@
 									</ul>
 								</div>
 								<div class="product-order">
-									<a class="button button-secondary" href="products-cloud-hosting.html#cloud-starter-monthly">
+									<a class="button button-secondary" href="{{ cpurl('cart.php?a=add&pid=1') }}">
 										<i class="fas fa-shopping-cart icon-left"></i>Order Now
 									</a>
 								</div>
@@ -109,7 +109,7 @@
 									</ul>
 								</div>
 								<div class="product-order">
-									<a class="button button-secondary" href="products-cloud-hosting.html#cloud-business-monthly">
+								<a class="button button-secondary" href="{{ cpurl('cart.php?a=add&pid=2') }}">
 										<i class="fas fa-shopping-cart icon-left"></i>Order Now
 									</a>
 								</div>
@@ -153,7 +153,7 @@
 									</ul>
 								</div>
 								<div class="product-order">
-									<a class="button button-secondary" href="products-cloud-hosting.html#cloud-enterprise-monthly">
+								<a class="button button-secondary" href="{{ cpurl('cart.php?a=add&pid=3') }}">
 										<i class="fas fa-shopping-cart icon-left"></i>Order Now
 									</a>
 								</div>
@@ -179,13 +179,13 @@
 								<div class="product-features">
 									<ul>
 										<li>
-											<strong>10</strong> Hosted Domains
+											<strong>1</strong> Hosted Domains
 										</li>
 										<li>
-											<strong>25 GB</strong> SSD Disk Space
+											<strong>5 GB</strong> SSD Disk Space
 										</li>
 										<li>
-											<strong>200 GB</strong> Premium Bandwidth
+											<strong>100 GB</strong> Premium Bandwidth
 										</li>
 									</ul>
 									<ul>
@@ -201,7 +201,7 @@
 									</ul>
 								</div>
 								<div class="product-order">
-									<a class="button button-secondary" href="products-cloud-hosting.html#cloud-starter-yearly">
+								<a class="button button-secondary" href="{{ cpurl('cart.php?a=add&pid=1') }}">
 										<i class="fas fa-shopping-cart icon-left"></i>Order Now
 									</a>
 								</div>
@@ -226,13 +226,13 @@
 								<div class="product-features">
 									<ul>
 										<li>
-											<strong>30</strong> Hosted Domains
+											<strong>5</strong> Hosted Domains
 										</li>
 										<li>
-											<strong>75 GB</strong> SSD Disk Space
+											<strong>10 GB</strong> SSD Disk Space
 										</li>
 										<li>
-											<strong>600 GB</strong> Premium Bandwidth
+											<strong>250 GB</strong> Premium Bandwidth
 										</li>
 									</ul>
 									<ul>
@@ -248,7 +248,7 @@
 									</ul>
 								</div>
 								<div class="product-order">
-									<a class="button button-secondary" href="products-cloud-hosting.html#cloud-business-yearly">
+								<a class="button button-secondary" href="{{ cpurl('cart.php?a=add&pid=2') }}">
 										<i class="fas fa-shopping-cart icon-left"></i>Order Now
 									</a>
 								</div>
@@ -270,13 +270,13 @@
 								<div class="product-features">
 									<ul>
 										<li>
-											<strong>60</strong> Hosted Domains
+											<strong>10</strong> Hosted Domains
 										</li>
 										<li>
-											<strong>150 GB</strong> SSD Disk Space
+											<strong>25 GB</strong> SSD Disk Space
 										</li>
 										<li>
-											<strong>1200 GB</strong> Premium Bandwidth
+											<strong>500 GB</strong> Premium Bandwidth
 										</li>
 									</ul>
 									<ul>
@@ -292,7 +292,7 @@
 									</ul>
 								</div>
 								<div class="product-order">
-									<a class="button button-secondary" href="products-cloud-hosting.html#cloud-enterprise-yearly">
+								<a class="button button-secondary" href="{{ cpurl('cart.php?a=add&pid=3') }}">
 										<i class="fas fa-shopping-cart icon-left"></i>Order Now
 									</a>
 								</div>
@@ -326,7 +326,7 @@
 						<tbody>
 							<tr>
 								<td>10 Hosted Domains</td>
-								<td>₹ 990 <small>/ month</small></td>
+								<td>₹ <small>/ month</small></td>
 							</tr>
 							<tr>
 								<td>25 GB SSD Disk Space</td>
@@ -424,17 +424,17 @@
 					<tr class="product-order">
 						<td></td>
 						<td>
-							<a class="button button-secondary" href="products-cloud-hosting.html#cloud-starter-monthly">
+						<a class="button button-secondary" href="{{ cpurl('cart.php?a=add&pid=1') }}">
 								<i class="fas fa-shopping-cart icon-left"></i>Order Now
 							</a>
 						</td>
 						<td>
-							<a class="button button-secondary" href="products-cloud-hosting.html#cloud-business-monthly">
+						<a class="button button-secondary" href="{{ cpurl('cart.php?a=add&pid=2') }}">
 								<i class="fas fa-shopping-cart icon-left"></i>Order Now
 							</a>
 						</td>
 						<td>
-							<a class="button button-secondary" href="products-cloud-hosting.html#cloud-enterprise-monthly">
+						<a class="button button-secondary" href="{{ cpurl('cart.php?a=add&pid=3') }}">
 								<i class="fas fa-shopping-cart icon-left"></i>Order Now
 							</a>
 						</td>
@@ -585,21 +585,21 @@
 					</tr>
 					<tr>
 						<td>Monthly</td>
-						<td>$9</td>
-						<td>$18</td>
-						<td>$36</td>
+						<td>₹ 99</td>
+						<td>₹ 179</td>
+						<td>₹ 259</td>
 					</tr>
 					<tr>
 						<td>Quarterly</td>
-						<td>$24</td>
-						<td>$48</td>
-						<td>$98</td>
+						<td>₹ 396</td>
+						<td>₹ 716</td>
+						<td>₹ 1036</td>
 					</tr>
 					<tr>
 						<td>Yearly</td>
-						<td>$90</td>
-						<td>$180</td>
-						<td>$360</td>
+						<td>₹ 1188</td>
+						<td>₹ 2148</td>
+						<td>₹ 3108</td>
 					</tr>
 				</tbody>
 			</table>

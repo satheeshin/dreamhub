@@ -147,16 +147,16 @@
 					</ul>
 					<ul class="nav-secondary">
 						<li>
-							<a href="contact.html"><i class="fas fa-phone icon-left"></i>+91 6379108040</a>
+							<a href="{{ cpurl('contact.php') }}"><i class="fas fa-phone icon-left"></i>+91 6379108040</a>
 						</li>
 						<li>
-							<a href="contact.html"><i class="fas fa-comment icon-left"></i>Support Chat</a>
+						<a href="{{ cpurl('submitticket.php?step=2&deptid=1') }}"><i class="fas fa-comment icon-left"></i>Open Ticket</a>
 						</li>
 						<li>
-							<a href="knowledge-base.html"><i class="fas fa-question-circle icon-left"></i>Knowledge Base</a>
+						<a href="{{ cpurl('index.php?rp=/knowledgebase') }}"><i class="fas fa-question-circle icon-left"></i>Knowledgebase</a>
 						</li>
 						<li>
-							<a href="{{ cpurl('register.php')}}"><i class="fas fa-user-plus icon-left"></i>Register</a>
+							<a href="{{ cpurl('login')}}"><i class="fas fa-user-plus icon-left"></i>Network Status</a>
 						</li>
 					</ul>
 				</nav>
