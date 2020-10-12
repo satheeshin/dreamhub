@@ -41,7 +41,7 @@ class updatePromoPrice extends Command
     {
         if ($this->confirm('Do you wish to Update Domain Promo Price ?')) {
 
-            $promodomains=json_decode($api->promoprices());
+            $promodomains=$api->promoprices();
 
             foreach ($promodomains as  $domain) {
                 $ext=$domain['productkey'];
