@@ -3,7 +3,7 @@
 namespace App\Packages\myorderbox;
 
 
-class ResellerClub extends Baseapp
+class Orderbox extends Baseapp
 { 
     public function __construct()
     {
