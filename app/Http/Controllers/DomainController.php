@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Packages\Whmcs;
+use App\Packages\Whmcs\WhmcsApi;
 use Illuminate\Http\Request;
 
 class DomainController extends Controller
@@ -18,14 +18,8 @@ class DomainController extends Controller
     }
 
 
-    public function domaincheck(Request $request,Whmcs $whmcs)
+    public function getprice(WhmcsApi $whmcsapi)
     {
-       if ($request->domain && $request->ext) {
-
-          $domain=$request->domain.$request->ext;
-          return $whmcs->get('DomainWhois',[ 'domain' => $domain ]);
-       }
-       
-      // return response()->json($request->domainname);
+      return $whmcsapi->get('GetTLDPricing');
     }
 }
