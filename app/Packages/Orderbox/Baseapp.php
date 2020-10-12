@@ -16,7 +16,7 @@ class Baseapp
 
   public function getrecords($parms = array(), $url, $method = true)
   {
-
+dd( $url);
 
     if ($method) 
     {
