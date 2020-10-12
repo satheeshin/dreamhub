@@ -25,7 +25,7 @@ class MyOrderBox
         dd("http post method !!");
        
         if ($response->successful()) {
-        return ($response->body());
+        return ($response->json());
         }
         else{
         dd($response->body());

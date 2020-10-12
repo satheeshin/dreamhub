@@ -10,6 +10,6 @@ class TestController extends Controller
 
     public function getinfo(MyOrderBox $api)
     {
-      echo gettype ($api->promoprices());
+      return ($api->promoprices());
     }
 }
