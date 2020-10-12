@@ -55,7 +55,7 @@ class updatePromoPrice extends Command
 
                 $whmcsapi->get('CreateOrUpdateTLD', $post);
 
-                usleep(500000);
+                usleep(5000);
 
                 $this->info(" $ext Domain Price Rs. $price Updated");
             }
