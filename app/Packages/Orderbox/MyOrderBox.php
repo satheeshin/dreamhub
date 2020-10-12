@@ -67,6 +67,11 @@ class MyOrderBox
 
     public function promoprices($parms=array(),$link='resellers/promo-details.json?')
     {         
-     return $this->getrecords($parms,$link);     
+     return json_decode($this->getrecords($parms,$link));     
+    }
+
+    public function decode(Type $var = null)
+    {
+        return json_decode($var);
     }
 }
