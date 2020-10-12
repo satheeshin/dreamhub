@@ -17,7 +17,6 @@ class Baseapp
   public function getrecords($parms = array(), $url, $method = true)
   {
     $records=array_merge($parms, $this->authentication);
-    dd($records);
 
     if ($method) 
     {
