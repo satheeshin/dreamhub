@@ -3,15 +3,13 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Packages\Orderbox\Api;
+use App\Packages\Orderbox\MyOrderBox;
 
 class TestController extends Controller
 {
-    //
 
-
-    public function getinfo(Api $api)
+    public function getinfo(MyOrderBox $api)
     {
-      return ($api->getinfo());
+      dd ($api->getresellerinfo());
     }
 }

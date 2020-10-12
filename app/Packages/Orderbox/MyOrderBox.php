@@ -9,33 +9,33 @@ class MyOrderBox extends Baseapp
     {
     	
     }
-    public function customers($parms,$link='resellers/search.json?')
+    public function customers($parms=array(),$link='resellers/search.json?')
     {
      return $this->getrecords($parms,$link);   
     }
     
-    public function domainavailable($parms,$link='domains/available.json?')
+    public function domainavailable($parms=array(),$link='domains/available.json?')
     {      
      return $this->getrecords($parms,$link);     
     }
 
-    public function transaction($parms,$link='billing/reseller-transactions/search.json?')
+    public function transaction($parms=array(),$link='billing/reseller-transactions/search.json?')
     {      
      return $this->getrecords($parms,$link);     
     }
 
-     public function archivedtransaction($parms,$link='billing/reseller-archived-transactions/search.json?')
+     public function archivedtransaction($parms=array(),$link='billing/reseller-archived-transactions/search.json?')
     {            
      return $this->getrecords($parms,$link);     
     }
 
 
-    public function getresellerinfo($parms,$link='resellers/details.json?')
+    public function getresellerinfo($parms=array(),$link='resellers/details.json?')
     {          
      return $this->getrecords($parms,$link);     
     }
 
-    public function resellersignup($parms,$link='resellers/signup.json?')
+    public function resellersignup($parms=array(),$link='resellers/signup.json?')
     {         
      return $this->getrecords($parms,$link,$rec=false);     
     }

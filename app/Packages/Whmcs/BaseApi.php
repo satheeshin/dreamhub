@@ -12,8 +12,8 @@ class BaseApi
   public function __construct()
   {
     $this->postfields = array(
-      'username' => config('whmcs.login.username'),
-      'password' => config('whmcs.login.password'),      
+      'username' => config('web.whmcs.user'),
+      'password' => config('web.whmcs.pass'),      
       'responsetype' => 'json',
   );  
   $this->apiurl=config('whmcs.apiurl');

@@ -4,15 +4,19 @@ namespace App\Packages\Orderbox;
 
 use Illuminate\Support\Facades\Http;
 
+
 class Baseapp
 {
+  protected $authentication ;
+
   public function __construct()
   {
+    $this->authentication= array(
+      'auth-userid' => config('web.orderbox.id'),
+      'api-key' => config('web.orderbox.key')
+    );
   }
-  protected $authentication = array(
-    'auth-userid' => '647512',
-    'api-key' => 'kkey'
-  );
+ 
 
   public function getrecords($parms = array(), $url, $method = true)
   {
@@ -24,11 +28,14 @@ class Baseapp
     } 
     else 
     {
-      
+      dd("http post method !!");
     }
-    dd($response->body());
+    
 
     if ($response->successful()) {
+      return ($response->body());
+    }
+    else{
       dd($response->body());
     }
 

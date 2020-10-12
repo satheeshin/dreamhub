@@ -20,8 +20,8 @@ class Api
     }
 
     function domainavailable ($parms=array()) {
-      $record= $this->get->domainavailable($parms);
-      foreach ($record as $key => $value) {
+      $records= $this->get->domainavailable($parms);
+      foreach ($records as $key => $value) {
         $domains[$key]=$value['status'];
       }
       return $domains;
