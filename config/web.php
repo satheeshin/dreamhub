@@ -15,7 +15,7 @@ return [
     'whmcs' => [
         'user' => env('WHMCS_USER', 'admin'),
         'pass' => env('WHMCS_PASS', ''),
-        'url'  => env('WHMCS_URL' , 'https://www.dreamhost.in/cp//includes/api.php'),
+        'url'  => env('WHMCS_URL' , 'http://www.dreamhost.in/cp//includes/api.php'),
     ],
 
 
