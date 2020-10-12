@@ -30,14 +30,7 @@
 								</li>
 								<li>
 									<a href="products-cloud-servers.html">Cloud Servers</a>
-									<ul>
-										<li>
-											<a href="products-developer-cloud.html">Developer Cloud</a>
-										</li>
-										<li>
-											<a href="products-custom-cloud.html">Custom Cloud</a>
-										</li>
-									</ul>
+									
 								</li>
 								<li>
 									<a href="products-dedicated-cloud.html">Dedicated Servers</a>
