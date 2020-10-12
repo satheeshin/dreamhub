@@ -18,6 +18,8 @@ Route::get('cloudhub', [App\Http\Controllers\GitController::class, 'cloudhub']);
 
 Route::get('test', [App\Http\Controllers\TestController::class, 'getinfo']);
 
+Route::get('price', [App\Http\Controllers\DomainController::class, 'getprice']);
+
 Route::get('/', [App\Http\Controllers\PageController::class, 'index']);
 
 Route::get('/products-cloud-hosting.html', [App\Http\Controllers\PageController::class, 'cloudHosting']);
