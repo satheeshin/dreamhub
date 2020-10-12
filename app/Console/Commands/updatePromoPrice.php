@@ -45,22 +45,21 @@ class updatePromoPrice extends Command
 
             foreach ($promodomains as  $domain) {
                 
-                $ext=str_replace(['dot','dom'],'.',$domain['productkey']);
+                $ext  = $post['extension']=str_replace(['dot','dom'],'.',$domain['productkey']);
 
-                $this->info(" $ext Display this on the screen");
+                        $post['currency_code']=$domain['resellerpricecurrencysymbol'];
+
+                $price= $post['register[1]']=$domain['resellerprice'];
+
+                $this->info("$ext domain price updating ... "); 
+
+                $whmcsapi->get('CreateOrUpdateTLD', $post);
+
+                $this->info(" $ext Domain Price Rs. $price Updated");
             }
-            /*             
-            $postarray=array(
-                'extension' => '.info',
-                'currency_code' => 'INR',
-                'register[1]' => '300',
-            );
+            
 
-            $whmcsapi->get('CreateOrUpdateTLD', $postarray);
-
-            $domain=$postarray['extension'];
-
-            $this->info("$domain domain price updated on the screen "); */
+            
         }
     }
 }
