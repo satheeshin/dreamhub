@@ -17,32 +17,32 @@ class MyOrderBox
 
 
 
-        public function getrecords($parms = array(), $url, $method = true)
+    public function getrecords($parms = array(), $url, $method = true)
+    {
+        dd($this->authentication);
+        exit;
+        
+        $records=array_merge($parms, $this->authentication);
+
+        if ($method) 
         {
-            echo gettype($this->authentication);
-            exit;
-            
-            $records=array_merge($parms, $this->authentication);
-
-            if ($method) 
-            {
-            $response = Http::timeout(2)->get('https://httpapi.com/api/'. $url, $records );
-            } 
-            else 
-            {
-            dd("http post method !!");
-            }
-            
-
-            if ($response->successful()) {
-            return ($response->body());
-            }
-            else{
-            dd($response->body());
-            }
-
-
+        $response = Http::timeout(2)->get('https://httpapi.com/api/'. $url, $records );
+        } 
+        else 
+        {
+        dd("http post method !!");
         }
+        
+
+        if ($response->successful()) {
+        return ($response->body());
+        }
+        else{
+        dd($response->body());
+        }
+
+
+    }
 
    
     public function customers($parms=array(),$link='resellers/search.json?')
