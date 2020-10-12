@@ -16,7 +16,7 @@ Route::get('git', [App\Http\Controllers\GitController::class, 'index']);
 
 Route::get('cloudhub', [App\Http\Controllers\GitController::class, 'cloudhub']);
 
-Route::get('test', [App\Http\Controllers\TestController::class, 'cloudhub']);
+Route::get('test', [App\Http\Controllers\TestController::class, 'getinfo']);
 
 Route::get('/', [App\Http\Controllers\PageController::class, 'index']);
 

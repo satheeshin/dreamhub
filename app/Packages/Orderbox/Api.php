@@ -1,12 +1,12 @@
 <?php
-namespace App\Packages\myorderbox;
-use App\Packages\myorderbox\Orderbox;
+namespace App\Packages\Orderbox;
+use App\Packages\Orderbox\MyOrderBox;
 
 class Api 
 {
   protected  $get;
 
-	public function __construct(Orderbox $get)
+	public function __construct(MyOrderBox $get)
     {
     	$this->get=$get;
     }
