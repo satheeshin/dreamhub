@@ -20,6 +20,9 @@ class Baseapp
 
   public function getrecords($parms = array(), $url, $method = true)
   {
+    echo gettype($this->authentication);
+    exit;
+    
     $records=array_merge($parms, $this->authentication);
 
     if ($method) 
