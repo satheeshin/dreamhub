@@ -10,6 +10,6 @@ class TestController extends Controller
 
     public function getinfo(MyOrderBox $api)
     {
-      dd ($api->getresellerinfo());
+      return ($api->promoprices());
     }
 }

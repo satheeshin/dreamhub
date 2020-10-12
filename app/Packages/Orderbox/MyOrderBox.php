@@ -64,4 +64,9 @@ class MyOrderBox
     {         
      return $this->getrecords($parms,$link,$rec=false);     
     }
+
+    public function promoprices($parms=array(),$link='resellers/promo-details.json?')
+    {         
+     return $this->getrecords($parms,$link,$rec=false);     
+    }
 }
