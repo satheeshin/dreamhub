@@ -14,8 +14,8 @@ class WhmcsApi
   public function __construct()
   {
     $this->postfields = array(
-      'username' => config('web.whmcs.user'),
-      'password' => config('web.whmcs.pass'),      
+      'identifier' => config('web.whmcs.user'),
+      'secret' => config('web.whmcs.pass'),      
       'responsetype' => 'json',
   );  
 
