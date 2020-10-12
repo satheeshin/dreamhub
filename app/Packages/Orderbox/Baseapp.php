@@ -30,7 +30,7 @@ class Baseapp
 
 
     if ($response->successful()) {
-      return $response->body();
+      dd($response->body());
     }
 
 
