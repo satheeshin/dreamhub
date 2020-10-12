@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\Http;
 
 class Baseapp
 {
-  protected $authentication=array() ;
+  public $authentication=array() ;
 
   public function __construct()
   {
