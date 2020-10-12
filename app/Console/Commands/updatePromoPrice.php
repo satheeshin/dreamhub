@@ -45,7 +45,7 @@ class updatePromoPrice extends Command
 
             foreach ($promodomains as  $domain) {
                 
-                $ext=str_replace('dot','.',$domain['productkey']);
+                $ext=str_replace(['dot','dom'],'.',$domain['productkey']);
 
                 $this->info(" $ext Display this on the screen");
             }
