@@ -3,6 +3,7 @@
 namespace App\Console\Commands;
 
 use Illuminate\Console\Command;
+use App\Packages\Orderbox\MyOrderBox;
 use App\Packages\Whmcs\WhmcsApi;
 
 class updatePromoPrice extends Command
@@ -36,13 +37,18 @@ class updatePromoPrice extends Command
      *
      * @return int
      */
-    public function handle(WhmcsApi $whmcsapi)
+    public function handle(WhmcsApi $whmcsapi,MyOrderBox $api)
     {
         if ($this->confirm('Do you wish to Update Domain Promo Price ?')) {
 
+            $promodomains=json_decode($api->promoprices());
 
-            $this->info('Display this on the screen');
+            foreach ($promodomains as  $domain) {
+                $ext=$domain['productkey'];
 
+                $this->info(" $ext Display this on the screen");
+            }
+            /*             
             $postarray=array(
                 'extension' => '.info',
                 'currency_code' => 'INR',
@@ -53,7 +59,7 @@ class updatePromoPrice extends Command
 
             $domain=$postarray['extension'];
 
-            $this->info("$domain domain price updated on the screen ");
+            $this->info("$domain domain price updated on the screen "); */
         }
     }
 }
