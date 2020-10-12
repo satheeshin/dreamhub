@@ -16,17 +16,17 @@ class PageController extends Controller
       return view('pages.cloud_hosting');
     }
 
-    public function cloudserver()
+    public function cloudServer()
     {
       return view('pages.cloud_server');
     }
 
-    public function developercloud()
+    public function developerCloud()
     {
       return view('pages.developer_cloud');
     }
     
-    public function customcloud()
+    public function customCloud()
     {
       return view('pages.custom_cloud');
     }

@@ -16,15 +16,17 @@ Route::get('git', [App\Http\Controllers\GitController::class, 'index']);
 
 Route::get('cloudhub', [App\Http\Controllers\GitController::class, 'cloudhub']);
 
+Route::get('test', [App\Http\Controllers\TestController::class, 'cloudhub']);
+
 Route::get('/', [App\Http\Controllers\PageController::class, 'index']);
 
 Route::get('/products-cloud-hosting.html', [App\Http\Controllers\PageController::class, 'cloudHosting']);
 
-Route::get('/products-cloud-servers.html',[App\Http\Controllers\PageController::class, 'cloudserver']);
+Route::get('/products-cloud-servers.html',[App\Http\Controllers\PageController::class, 'cloudServer']);
 
-Route::get('/products-developer-cloud.html',[App\Http\Controllers\PageController::class, 'developercloud']);
+Route::get('/products-developer-cloud.html',[App\Http\Controllers\PageController::class, 'developerCloud']);
 
-Route::get('/products-custom-cloud.html',[App\Http\Controllers\PageController::class, 'customcloud']);
+Route::get('/products-custom-cloud.html',[App\Http\Controllers\PageController::class, 'customCloud']);
 
 Auth::routes();
 
