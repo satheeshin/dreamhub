@@ -16,11 +16,14 @@ class Baseapp
 
   public function getrecords($parms = array(), $url, $method = true)
   {
-dd( $url);
+
 
     if ($method) 
     {
-      $response = Http::timeout(2)->get('https://httpapi.com/api/' . $url, array_merge($parms, $this->authentication));
+      $records=array_merge($parms, $this->authentication);
+      dd($records);
+
+      $response = Http::timeout(2)->get('https://httpapi.com/api/'. $url, $records );
     } 
     else 
     {
