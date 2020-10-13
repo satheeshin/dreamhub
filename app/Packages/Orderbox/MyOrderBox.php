@@ -70,7 +70,7 @@ class MyOrderBox
      return $this->getrecords($parms,$link);     
     }
 
-    public function resellerprices($parms=array(),$link='resellers/reseller-cost-price.json?')
+    public function resellerprices($parms=array(),$link='products/reseller-cost-price.json?')
     {         
      return $this->getrecords($parms,$link);     
     }

@@ -30,6 +30,6 @@ Route::get('/products-developer-cloud.html',[App\Http\Controllers\PageController
 
 Route::get('/products-custom-cloud.html',[App\Http\Controllers\PageController::class, 'customCloud']);
 
-Auth::routes();
+//Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
