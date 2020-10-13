@@ -32,7 +32,7 @@
                                     </h4>
                                 </div>
                                 <div class="product-price">
-                                    $0.028<span class="term">/ hour</span>
+                                    ₹ 0.86<span class="term">/ hour</span>
                                 </div>
                                 <div class="product-features">
                                     <ul>
@@ -76,7 +76,7 @@
                                     </h4>
                                 </div>
                                 <div class="product-price">
-                                    $0.056<span class="term">/ hour</span>
+                                    ₹ 1.56<span class="term">/ hour</span>
                                 </div>
                                 <div class="product-features">
                                     <ul>
@@ -117,7 +117,7 @@
                                     </h4>
                                 </div>
                                 <div class="product-price">
-                                    $0.112<span class="term">/ hour</span>
+                                    ₹ 2.76<span class="term">/ hour</span>
                                 </div>
                                 <div class="product-features">
                                     <ul>
@@ -160,7 +160,7 @@
                                     </h4>
                                 </div>
                                 <div class="product-price">
-                                    $0.224<span class="term">/ hour</span>
+                                    ₹ 5.20<span class="term">/ hour</span>
                                 </div>
                                 <div class="product-features">
                                     <ul>
@@ -201,7 +201,7 @@
                                     </h4>
                                 </div>
                                 <div class="product-price">
-                                    $0.448<span class="term">/ hour</span>
+                                    ₹ 10.04<span class="term">/ hour</span>
                                 </div>
                                 <div class="product-features">
                                     <ul>
@@ -242,7 +242,7 @@
                                     </h4>
                                 </div>
                                 <div class="product-price">
-                                    $0.896<span class="term">/ hour</span>
+                                    ₹ 20.08<span class="term">/ hour</span>
                                 </div>
                                 <div class="product-features">
                                     <ul>
@@ -287,7 +287,7 @@
                                     </h4>
                                 </div>
                                 <div class="product-price">
-                                    $19<span class="term">/ month</span>
+                                    ₹ 500.30<span class="term">/ month</span>
                                 </div>
                                 <div class="product-features">
                                     <ul>
@@ -331,7 +331,7 @@
                                     </h4>
                                 </div>
                                 <div class="product-price">
-                                    $39<span class="term">/ month</span>
+                                    ₹ 983.28<span class="term">/ month</span>
                                 </div>
                                 <div class="product-features">
                                     <ul>
@@ -372,7 +372,7 @@
                                     </h4>
                                 </div>
                                 <div class="product-price">
-                                    $79<span class="term">/ month</span>
+                                    ₹ 1786.54<span class="term">/ month</span>
                                 </div>
                                 <div class="product-features">
                                     <ul>
@@ -415,7 +415,7 @@
                                     </h4>
                                 </div>
                                 <div class="product-price">
-                                    $149<span class="term">/ month</span>
+                                    ₹ 3192.22<span class="term">/ month</span>
                                 </div>
                                 <div class="product-features">
                                     <ul>
@@ -456,7 +456,7 @@
                                     </h4>
                                 </div>
                                 <div class="product-price">
-                                    $299<span class="term">/ month</span>
+                                    ₹ 6003.58<span class="term">/ month</span>
                                 </div>
                                 <div class="product-features">
                                     <ul>
@@ -497,7 +497,7 @@
                                     </h4>
                                 </div>
                                 <div class="product-price">
-                                    $599<span class="term">/ month</span>
+                                    ₹ 12007.16<span class="term">/ month</span>
                                 </div>
                                 <div class="product-features">
                                     <ul>
@@ -668,7 +668,7 @@
                 <div class="column-33">
                     <div class="testimonial">
                         <p class="testimonial-content">
-                            My customers didn't experience a single minute of downtime since I moved my services over to Cloudhub.
+                            My customers didn't experience a single minute of downtime since I moved my services over to DreamHost.
                         </p>
                         <p class="testimonial-author">
                             <a href="#twitter"><i class="fab fa-twitter icon-left"></i>Peter Miller</a><br>
@@ -679,7 +679,7 @@
                 <div class="column-33">
                     <div class="testimonial">
                         <p class="testimonial-content">
-                            Cloudhub helped me with a professional custom server solution when my business was so rapidly growing my old system couldn't handle the load anymore.
+                            DreamHost helped me with a professional custom server solution when my business was so rapidly growing my old system couldn't handle the load anymore.
                         </p>
                         <p class="testimonial-author">
                             <a href="#twitter"><i class="fab fa-twitter icon-left"></i>John Smith</a><br>
@@ -690,7 +690,7 @@
                 <div class="column-33">
                     <div class="testimonial">
                         <p class="testimonial-content">
-                            By switching to Cloudhub's Anycast DNS system we were able to decrease the worldwide app latency immensely.
+                            By switching to DreamHost's Anycast DNS system we were able to decrease the worldwide app latency immensely.
                         </p>
                         <p class="testimonial-author">
                             <a href="#twitter"><i class="fab fa-twitter icon-left"></i>Mary Fonda</a><br>
@@ -710,7 +710,7 @@
                 </h2>
                 <p>
                     Our technicians can provide you with the best custom made solutions on the market, no matter whether you're a small business or large enterprise.<br><br>
-                    <a class="button button-secondary" href="contact.html">
+                    <a class="button button-secondary" href="{{ cpurl('contact.php') }}">
                         <i class="fas fa-envelope icon-left"></i>Get in touch
                     </a>
                 </p>
