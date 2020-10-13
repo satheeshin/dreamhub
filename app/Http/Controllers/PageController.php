@@ -40,4 +40,24 @@ class PageController extends Controller
     {
       return view('pages.block_storage');
     }
+
+    public function domainNames()
+    {
+      return view('pages.domain_names');
+    }
+
+    public function contact()
+    {
+      return view('pages.contact');
+    }
+
+    public function features()
+    {
+      return view('pages.features');
+    }
+
+    public function network()
+    {
+      return view('pages.network');
+    }
 }

@@ -37,9 +37,7 @@
 								<li>
 									<a href="products-block-storage.html">Block Storage</a>
 								</li>
-								<li>
-									<a href="products-anycast-dns.html">Anycast DNS</a>
-								</li>
+								
 								<li>
 									<a href="products-ssl-certificates.html">SSL Certificates</a>
 								</li>
@@ -50,72 +48,7 @@
 						</li>
 						<li>
 							<a href="features.html">Features</a>
-							<ul>
-								<li>
-									<a href="index.html">Demos</a>
-									<ul>
-										<li>
-											<a href="home.html">Default</a>
-										</li>
-										<li>
-											<a href="home-large-slider.html">Large Slider</a>
-										</li>
-										<li>
-											<a href="home-light-header.html">Light Header</a>
-										</li>
-										<li>
-											<a href="home-single-page.html">Single Page</a>
-										</li>
-										<li>
-											<a href="home-light-slider.html">Light Slider</a>
-										</li>
-										<li>
-											<a href="home-product-slider.html">Product Slider</a>
-										</li>
-										<li>
-											<a href="home-user-onboarding.html">User Onboarding</a>
-										</li>
-										<li>
-											<a href="home-domain-search.html">Domain Search</a>
-										</li>
-										<li>
-											<a href="home-custom-color.html">Custom Color</a>
-										</li>
-									</ul>
-								</li>
-								<li>
-									<a href="elements-other.html">Elements</a>
-									<ul>
-										<li>
-											<a href="blog-sidebar.html">Blog Sidebar</a>
-										</li>
-										<li>
-											<a href="elements-columns.html">Column Rows</a>
-										</li>
-										<li>
-											<a href="elements-sliders.html">Content Sliders</a>
-										</li>
-										<li>
-											<a href="elements-pricing.html">Pricing Options</a>
-										</li>
-										<li>
-											<a href="elements-masonry.html">Masonry Grid</a>
-										</li>
-										<li>
-											<a href="elements-forms.html">Form Inputs</a>
-										</li>
-										<li>
-											<a href="elements-tabs.html">Tab Groups</a>
-										</li>
-										<li>
-											<a href="elements-galleries.html">Galleries</a>
-										</li>
-										<li>
-											<a href="elements-other.html">Other</a>
-										</li>
-									</ul>
-								</li>
-							</ul>
+							
 						</li>
 						<li>
 							<a href="network.html">Network</a>
