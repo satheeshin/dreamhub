@@ -19,7 +19,7 @@ class MyOrderBox
 
         $records=array_merge($parms, $this->authentication);
         if ($method)   {
-        $response = Http::timeout(3)->get('https://httpapi.com/api/'. $url, $records );
+        $response = Http::timeout(8)->get('https://httpapi.com/api/'. $url, $records );
         } 
         else 
         dd("http post method !!");
