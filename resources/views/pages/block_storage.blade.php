@@ -39,7 +39,7 @@
                             </li>
                             <li>
                                 <div class="price">
-                                    <span class="value">$25</span>
+                                    <span class="value">₹ 435.47</span>
                                     <span class="label">Monthly</span>
                                 </div>
                                 <a class="button button-secondary" href="products-block-storage.html#block-storage-ssd-250">
@@ -62,7 +62,7 @@
                             </li>
                             <li>
                                 <div class="price">
-                                    <span class="value">$50</span>
+                                    <span class="value">₹ 736.14</span>
                                     <span class="label">Monthly</span>
                                 </div>
                                 <a class="button button-secondary" href="products-block-storage.html#block-storage-ssd-500">
@@ -85,7 +85,7 @@
                             </li>
                             <li>
                                 <div class="price">
-                                    <span class="value">$100</span>
+                                    <span class="value">₹ 1187.15</span>
                                     <span class="label">Monthly</span>
                                 </div>
                                 <a class="button button-secondary" href="products-block-storage.html#block-storage-ssd-1000">
@@ -108,7 +108,7 @@
                             </li>
                             <li>
                                 <div class="price">
-                                    <span class="value">$200</span>
+                                    <span class="value">₹ 1487.82</span>
                                     <span class="label">Monthly</span>
                                 </div>
                                 <a class="button button-secondary" href="products-block-storage.html#block-storage-ssd-2000">
@@ -131,7 +131,7 @@
                             </li>
                             <li>
                                 <div class="price">
-                                    <span class="value">$400</span>
+                                    <span class="value">₹ 3291.86</span>
                                     <span class="label">Monthly</span>
                                 </div>
                                 <a class="button button-secondary" href="products-block-storage.html#block-storage-ssd-4000">
@@ -154,7 +154,7 @@
                             </li>
                             <li>
                                 <div class="price">
-                                    <span class="value">$800</span>
+                                    <span class="value">₹ 5997.93</span>
                                     <span class="label">Monthly</span>
                                 </div>
                                 <a class="button button-secondary" href="products-block-storage.html#block-storage-ssd-8000">
@@ -177,7 +177,7 @@
                             </li>
                             <li>
                                 <div class="price">
-                                    <span class="value">$1200</span>
+                                    <span class="value">₹ 11607.05</span>
                                     <span class="label">Monthly</span>
                                 </div>
                                 <a class="button button-secondary" href="products-block-storage.html#block-storage-ssd-12000">
@@ -204,7 +204,7 @@
                             </li>
                             <li>
                                 <div class="price">
-                                    <span class="value">$15</span>
+                                    <span class="value">₹ 290.31</span>
                                     <span class="label">Monthly</span>
                                 </div>
                                 <a class="button button-secondary" href="products-block-storage.html#block-storage-hdd-250">
@@ -227,7 +227,7 @@
                             </li>
                             <li>
                                 <div class="price">
-                                    <span class="value">$30</span>
+                                    <span class="value">₹ 490.76</span>
                                     <span class="label">Monthly</span>
                                 </div>
                                 <a class="button button-secondary" href="products-block-storage.html#block-storage-hdd-500">
@@ -250,7 +250,7 @@
                             </li>
                             <li>
                                 <div class="price">
-                                    <span class="value">$60</span>
+                                    <span class="value">₹ 791.43</span>
                                     <span class="label">Monthly</span>
                                 </div>
                                 <a class="button button-secondary" href="products-block-storage.html#block-storage-hdd-1000">
@@ -273,7 +273,7 @@
                             </li>
                             <li>
                                 <div class="price">
-                                    <span class="value">$120</span>
+                                    <span class="value">₹ 991.88</span>
                                     <span class="label">Monthly</span>
                                 </div>
                                 <a class="button button-secondary" href="products-block-storage.html#block-storage-hdd-2000">
@@ -296,7 +296,7 @@
                             </li>
                             <li>
                                 <div class="price">
-                                    <span class="value">$240</span>
+                                    <span class="value">₹ 2194.57</span>
                                     <span class="label">Monthly</span>
                                 </div>
                                 <a class="button button-secondary" href="products-block-storage.html#block-storage-hdd-4000">
@@ -319,7 +319,7 @@
                             </li>
                             <li>
                                 <div class="price">
-                                    <span class="value">$480</span>
+                                    <span class="value">₹ 3998.62</span>
                                     <span class="label">Monthly</span>
                                 </div>
                                 <a class="button button-secondary" href="products-block-storage.html#block-storage-hdd-8000">
@@ -342,7 +342,7 @@
                             </li>
                             <li>
                                 <div class="price">
-                                    <span class="value">$960</span>
+                                    <span class="value">₹ 7738.03</span>
                                     <span class="label">Monthly</span>
                                 </div>
                                 <a class="button button-secondary" href="products-block-storage.html#block-storage-hdd-12000">
@@ -483,7 +483,7 @@ Date: Thu, 16 Jan 2014 18:51:32 GMT</pre>
                 <div class="column-33">
                     <div class="testimonial">
                         <p class="testimonial-content">
-                            My customers didn't experience a single minute of downtime since I moved my services over to Cloudhub.
+                            My customers didn't experience a single minute of downtime since I moved my services over to DreamHost.
                         </p>
                         <p class="testimonial-author">
                             <a href="#twitter"><i class="fab fa-twitter icon-left"></i>Peter Miller</a><br>
@@ -494,7 +494,7 @@ Date: Thu, 16 Jan 2014 18:51:32 GMT</pre>
                 <div class="column-33">
                     <div class="testimonial">
                         <p class="testimonial-content">
-                            Cloudhub helped me with a professional custom server solution when my business was so rapidly growing my old system couldn't handle the load anymore.
+                            DreamHost helped me with a professional custom server solution when my business was so rapidly growing my old system couldn't handle the load anymore.
                         </p>
                         <p class="testimonial-author">
                             <a href="#twitter"><i class="fab fa-twitter icon-left"></i>John Smith</a><br>
@@ -505,7 +505,7 @@ Date: Thu, 16 Jan 2014 18:51:32 GMT</pre>
                 <div class="column-33">
                     <div class="testimonial">
                         <p class="testimonial-content">
-                            By switching to Cloudhub's Anycast DNS system we were able to decrease the worldwide app latency immensely.
+                            By switching to DreamHost's Anycast DNS system we were able to decrease the worldwide app latency immensely.
                         </p>
                         <p class="testimonial-author">
                             <a href="#twitter"><i class="fab fa-twitter icon-left"></i>Mary Fonda</a><br>

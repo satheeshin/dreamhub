@@ -31,9 +31,9 @@ class PageController extends Controller
       return view('pages.custom_cloud');
     }
 
-    public function dedicatedServer()
+    public function dedicatedCloud()
     {
-      return view('pages.dedicated_server');
+      return view('pages.dedicated_cloud');
     }
 
     public function blockStorage()

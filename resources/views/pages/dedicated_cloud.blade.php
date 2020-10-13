@@ -1,6 +1,6 @@
 @extends('layouts.site')
 
-@section('title', 'Dedicated Server')
+@section('title', 'Dedicated Cloud')
 
 @section('content')
 <!-- Content -->
