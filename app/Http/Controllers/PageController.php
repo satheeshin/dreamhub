@@ -30,4 +30,14 @@ class PageController extends Controller
     {
       return view('pages.custom_cloud');
     }
+
+    public function dedicatedCloud()
+    {
+      return view('pages.dedicated_cloud');
+    }
+
+    public function blockStorage()
+    {
+      return view('pages.block_storage');
+    }
 }

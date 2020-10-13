@@ -32,7 +32,7 @@
 									<a href="products-cloud-servers.html">Cloud Servers</a>	
 								</li>
 								<li>
-									<a href="products-dedicated-cloud.html">Dedicated Servers</a>
+									<a href="products-dedicated-cloud.html">Dedicated Cloud</a>
 								</li>
 								<li>
 									<a href="products-block-storage.html">Block Storage</a>
