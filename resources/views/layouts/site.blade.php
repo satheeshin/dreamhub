@@ -29,8 +29,7 @@
 									<a href="products-cloud-hosting.html">Cloud Hosting</a>
 								</li>
 								<li>
-									<a href="products-cloud-servers.html">Cloud Servers</a>
-									
+									<a href="products-cloud-servers.html">Cloud Servers</a>	
 								</li>
 								<li>
 									<a href="products-dedicated-cloud.html">Dedicated Servers</a>
