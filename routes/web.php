@@ -24,9 +24,9 @@ Route::get('/products-cloud-hosting.html', [App\Http\Controllers\PageController:
 
 Route::get('/products-cloud-servers.html',[App\Http\Controllers\PageController::class, 'cloudServer']);
 
-Route::get('/products-developer-cloud.html',[App\Http\Controllers\PageController::class, 'developerCloud']);
+Route::get('/products-dedicated-servers.html',[App\Http\Controllers\PageController::class, 'dedicatedServer']);
 
-Route::get('/products-custom-cloud.html',[App\Http\Controllers\PageController::class, 'customCloud']);
+Route::get('/products-block-storage.html',[App\Http\Controllers\PageController::class, 'blockStorage']);
 
 Auth::routes();
 
