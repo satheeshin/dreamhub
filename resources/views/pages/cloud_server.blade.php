@@ -442,7 +442,7 @@
                                     </ul>
                                 </div>
                                 <div class="product-order">
-                                    <a class="button button-secondary" href="products-cloud-servers.html#cloud-server-16g-monthly">
+                                <a class="button button-secondary" href="{{ cpurl('contact.php') }}">
                                         <i class="fas fa-shopping-cart icon-left"></i>Order Now
                                     </a>
                                 </div>
@@ -483,7 +483,7 @@
                                     </ul>
                                 </div>
                                 <div class="product-order">
-                                    <a class="button button-secondary" href="products-cloud-servers.html#cloud-server-32g-monthly">
+                                <a class="button button-secondary" href="{{  cpurl('contact.php') }}">
                                         <i class="fas fa-shopping-cart icon-left"></i>Order Now
                                     </a>
                                 </div>
@@ -524,7 +524,7 @@
                                     </ul>
                                 </div>
                                 <div class="product-order">
-                                    <a class="button button-secondary" href="products-cloud-servers.html#cloud-server-64g-monthly">
+                                <a class="button button-secondary" href="{{ cpurl('contact.php') }}">
                                         <i class="fas fa-shopping-cart icon-left"></i>Order Now
                                     </a>
                                 </div>
