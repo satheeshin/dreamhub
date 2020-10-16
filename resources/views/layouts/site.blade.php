@@ -39,10 +39,10 @@
 								</li>
 								
 								<li>
-									<a href="products-ssl-certificates.html">SSL Certificates</a>
+									<a href="#">SSL Certificates</a>
 								</li>
 								<li>
-									<a href="products-domain-names.html">Domain Names</a>
+								<a href="{{ cpurl('cart.php?a=add&domain=register') }}">Domain Names</a>
 								</li>
 							</ul>
 						</li>
