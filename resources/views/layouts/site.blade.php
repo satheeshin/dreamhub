@@ -23,7 +23,7 @@
 				<nav>
 					<ul class="nav-primary">
 						<li>
-							<a href="{{ ('home.html') }}">Products</a>
+							<a href="{{ url('home.html') }}">Products</a>
 							<ul>
 								<li>
 									<a href="{{ url('products-cloud-hosting.html') }}">Cloud Hosting</a>
