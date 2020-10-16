@@ -26,16 +26,16 @@
 							<a href="home.html">Products</a>
 							<ul>
 								<li>
-									<a href="products-cloud-hosting.html">Cloud Hosting</a>
+									<a href="{{ url('products-cloud-hosting.html') }}">Cloud Hosting</a>
 								</li>
 								<li>
-									<a href="products-cloud-servers.html">Cloud Servers</a>	
+									<a href="{{ url('products-cloud-servers.html') }}">Cloud Servers</a>	
 								</li>
 								<li>
-									<a href="products-dedicated-cloud.html">Dedicated Cloud</a>
+									<a href="{{ url('products-dedicated-cloud.html') }}">Dedicated Cloud</a>
 								</li>
 								<li>
-									<a href="products-block-storage.html">Block Storage</a>
+									<a href="{{ url('products-block-storage.html') }}">Block Storage</a>
 								</li>
 								
 								<li>
