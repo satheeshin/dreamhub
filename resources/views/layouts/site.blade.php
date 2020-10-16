@@ -23,7 +23,7 @@
 				<nav>
 					<ul class="nav-primary">
 						<li>
-							<a href="home.html">Products</a>
+							<a href="{{ ('home.html') }}">Products</a>
 							<ul>
 								<li>
 									<a href="{{ url('products-cloud-hosting.html') }}">Cloud Hosting</a>
@@ -47,20 +47,19 @@
 							</ul>
 						</li>
 						<li>
-							<a href="features.html">Features</a>
-							
+							<a href="{{ url('features.html') }}">Features</a>
 						</li>
 						<li>
-							<a href="network.html">Network</a>
+							<a href="{{ url('network.html') }}">Network</a>
 						</li>
 						<li>
-							<a href="about.html">Company</a>
+							<a href="{{ url('about.html') }}">Company</a>
 							<ul>
 								<li>
 									<a href="https://blog.dreamhost.in/">Blog</a>
 								</li>
 								<li>
-									<a href="contact.html">Contact</a>
+									<a href="{{ url('contact.html') }}">Contact</a>
 								</li>
 							</ul>
 						</li>

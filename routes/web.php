@@ -25,6 +25,8 @@ Route::get('price', [App\Http\Controllers\DomainController::class, 'getprice']);
 Route::get('/', [PageController::class, 'index']);
 
 
+Route::get('app/test', [PageController::class, 'index']);
+
 
 
 // Products
