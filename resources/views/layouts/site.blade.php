@@ -23,7 +23,7 @@
 				<nav>
 					<ul class="nav-primary">
 						<li>
-							<a href="{{ url('home.html') }}">Products</a>
+							<a href="{{ url('') }}">Products</a>
 							<ul>
 								<li>
 									<a href="{{ url('products-cloud-hosting.html') }}">Cloud Hosting</a>
@@ -50,10 +50,10 @@
 							<a href="{{ url('features.html') }}">Features</a>
 						</li>
 						<li>
-							<a href="{{ url('network.html') }}">Network</a>
+							<a href="{{ cpurl('serverstatus.php') }}">Network</a>
 						</li>
 						<li>
-							<a href="{{ url('about.html') }}">Company</a>
+							<a href="{{ cpurl('serverstatus.php') }}">Company</a>
 							<ul>
 								<li>
 									<a href="https://blog.dreamhost.in/">Blog</a>
@@ -153,7 +153,7 @@
 											<a href="{{ url('features.html') }}">Features</a>
 										</li>
 										<li>
-											<a href="{{ url('network.html') }}">Network</a>
+											<a href="{{ cpurl('serverstatus.php') }}">Network</a>
 										</li>
 										<li>
 											<a href="terms-of-service.html#privacy-policy">Privacy Policy</a>
