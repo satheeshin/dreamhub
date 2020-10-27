@@ -23,19 +23,19 @@
 				<nav>
 					<ul class="nav-primary">
 						<li>
-							<a href="home.html">Products</a>
+							<a href="{{ url('') }}">Products</a>
 							<ul>
 								<li>
-									<a href="products-cloud-hosting.html">Cloud Hosting</a>
+									<a href="{{ url('products-cloud-hosting.html') }}">Cloud Hosting</a>
 								</li>
 								<li>
-									<a href="products-cloud-servers.html">Cloud Servers</a>	
+									<a href="{{ url('products-cloud-servers.html') }}">Cloud Servers</a>	
 								</li>
 								<li>
-									<a href="products-dedicated-cloud.html">Dedicated Cloud</a>
+									<a href="{{ url('products-dedicated-cloud.html') }}">Dedicated Cloud</a>
 								</li>
 								<li>
-									<a href="products-block-storage.html">Block Storage</a>
+									<a href="{{ url('products-block-storage.html') }}">Block Storage</a>
 								</li>
 								
 								<li>
@@ -47,20 +47,19 @@
 							</ul>
 						</li>
 						<li>
-							<a href="features.html">Features</a>
-							
+							<a href="{{ url('features.html') }}">Features</a>
 						</li>
 						<li>
-							<a href="network.html">Network</a>
+							<a href="{{ cpurl('serverstatus.php') }}">Network</a>
 						</li>
 						<li>
-							<a href="about.html">Company</a>
+							<a href="{{ cpurl('serverstatus.php') }}">Company</a>
 							<ul>
 								<li>
 									<a href="https://blog.dreamhost.in/">Blog</a>
 								</li>
 								<li>
-									<a href="contact.html">Contact</a>
+									<a href="{{ url('contact.html') }}">Contact</a>
 								</li>
 							</ul>
 						</li>
@@ -132,19 +131,16 @@
 									</h5>
 									<ul>
 										<li>
-											<a href="products-cloud-hosting.html">Cloud Hosting</a>
+											<a href="{{ url('products-cloud-hosting.html') }}">Cloud Hosting</a>
 										</li>
 										<li>
-											<a href="products-cloud-servers.html">Cloud Servers</a>
+											<a href="{{ url('products-cloud-servers.html') }}">Cloud Servers</a>
 										</li>
 										<li>
-											<a href="products-dedicated-cloud.html">Dedicated Cloud</a>
+											<a href="{{ url('products-dedicated-cloud.html') }}">Dedicated Cloud</a>
 										</li>
 										<li>
-											<a href="products-block-storage.html">Block Storage</a>
-										</li>
-										<li>
-											<a href="products-anycast-dns.html">Anycast DNS</a>
+											<a href="{{ url('products-block-storage.html') }}">Block Storage</a>
 										</li>
 									</ul>
 								</div>
@@ -154,10 +150,10 @@
 									</h5>
 									<ul>
 										<li>
-											<a href="features.html">Features</a>
+											<a href="{{ url('features.html') }}">Features</a>
 										</li>
 										<li>
-											<a href="network.html">Network</a>
+											<a href="{{ cpurl('serverstatus.php') }}">Network</a>
 										</li>
 										<li>
 											<a href="terms-of-service.html#privacy-policy">Privacy Policy</a>
@@ -176,7 +172,7 @@
 											<a href="https://blog.dreamhost.in/">Blog</a>
 										</li>
 										<li>
-											<a href="about.html">About</a>
+											<a href="{{ url('about.html') }}">About</a>
 										</li>
 										<li>
 											<a href="{{ cpurl('contact.php') }}">Contact</a>
