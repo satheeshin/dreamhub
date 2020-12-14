@@ -60,4 +60,9 @@ class PageController extends Controller
     {
       return view('pages.network');
     }
+
+    public function terms()
+    {
+      return view('pages.terms');
+    }
 }

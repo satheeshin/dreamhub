@@ -41,6 +41,7 @@ Route::get('/products-block-storage.html',[PageController::class, 'blockStorage'
 
 Route::get('/products-domain-names.html',[PageController::class, 'domainNames']);
 
+Route::get('/terms-of-service.html',[PageController::class, 'terms']);
 
 
 Route::get('/contact.html',[PageController::class, 'contact']);
