@@ -407,13 +407,13 @@
 						<td>Hosted Domains</td>
 						<td>1</td>
 						<td>5</td>
-						<td>10</td>
+						<td>25</td>
 					</tr>
 					<tr>
 						<td>SSD Disk Space</td>
 						<td>5 GB</td>
-						<td>10 GB</td>
 						<td>25 GB</td>
+						<td>100 GB</td>
 					</tr>
 					<tr>
 						<td>Premium Bandwidth</td>
@@ -458,7 +458,7 @@
 						<td>99.95%</td>
 					</tr>
 					<tr>
-						<td>cPanel&reg; Accounts</td>
+						<td>Domains Allowed</td>
 						<td>5</td>
 						<td>15</td>
 						<td>25</td>
