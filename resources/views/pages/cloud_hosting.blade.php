@@ -90,7 +90,7 @@
 											<strong>5</strong> Hosted Domains
 										</li>
 										<li>
-											<strong>10 GB</strong> SSD Disk Space
+											<strong>25 GB</strong> SSD Disk Space
 										</li>
 										<li>
 											<strong>250 GB</strong> Premium Bandwidth
@@ -131,10 +131,10 @@
 								<div class="product-features">
 									<ul>
 										<li>
-											<strong>10</strong> Hosted Domains
+											<strong>25</strong> Hosted Domains
 										</li>
 										<li>
-											<strong>25 GB</strong> SSD Disk Space
+											<strong>100 GB</strong> SSD Disk Space
 										</li>
 										<li>
 											<strong>500 GB</strong> Premium Bandwidth
