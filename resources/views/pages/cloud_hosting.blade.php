@@ -407,7 +407,7 @@
 						<td>Hosted Domains</td>
 						<td>1</td>
 						<td>5</td>
-						<td>25</td>
+						<td>10</td>
 					</tr>
 					<tr>
 						<td>SSD Disk Space</td>

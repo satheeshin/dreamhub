@@ -267,7 +267,7 @@
 						<div class="product-features">
 							<ul>
 								<li>
-									<strong>25</strong> Hosted Domains
+									<strong>10</strong> Hosted Domains
 								</li>
 								<li>
 									<strong>100 GB</strong> SSD Disk Space
