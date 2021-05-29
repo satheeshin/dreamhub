@@ -131,7 +131,7 @@
 								<div class="product-features">
 									<ul>
 										<li>
-											<strong>25</strong> Hosted Domains
+											<strong>10</strong> Hosted Domains
 										</li>
 										<li>
 											<strong>100 GB</strong> SSD Disk Space
@@ -270,7 +270,7 @@
 								<div class="product-features">
 									<ul>
 										<li>
-											<strong>25</strong> Hosted Domains
+											<strong>10</strong> Hosted Domains
 										</li>
 										<li>
 											<strong>100 GB</strong> SSD Disk Space
@@ -483,9 +483,9 @@
 					</tr>
 					<tr>
 						<td>Mailboxes</td>
-						<td>15</td>
+						<td>10</td>
+						<td>25</td>
 						<td>50</td>
-						<td>150</td>
 					</tr>
 					<tr>
 						<td>Hourly Limit</td>
