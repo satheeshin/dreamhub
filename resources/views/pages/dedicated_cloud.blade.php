@@ -163,7 +163,7 @@
                                     </ul>
                                 </div>
                                 <div class="product-order">
-                                    <a class="button button-secondary" href="products-dedicated-cloud.html#dedicated-cloud-32g-yearly">
+                                    <a class="button button-secondary" href="https://www.dreamhost.in/cp/register.php">
                                         <i class="fas fa-shopping-cart icon-left"></i>Order Now
                                     </a>
                                 </div>
@@ -210,7 +210,7 @@
                                     </ul>
                                 </div>
                                 <div class="product-order">
-                                    <a class="button button-secondary" href="products-dedicated-cloud.html#dedicated-cloud-64g-yearly">
+                                    <a class="button button-secondary" href="https://www.dreamhost.in/cp/register.php">
                                         <i class="fas fa-shopping-cart icon-left"></i>Order Now
                                     </a>
                                 </div>
