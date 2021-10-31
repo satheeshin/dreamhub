@@ -287,7 +287,7 @@
                                     </h4>
                                 </div>
                                 <div class="product-price">
-                                    ₹ 500.30<span class="term">/ month</span>
+                                    ₹ 500<span class="term">/ month</span>
                                 </div>
                                 <div class="product-features">
                                     <ul>
@@ -331,7 +331,7 @@
                                     </h4>
                                 </div>
                                 <div class="product-price">
-                                    ₹ 983.28<span class="term">/ month</span>
+                                    ₹ 983<span class="term">/ month</span>
                                 </div>
                                 <div class="product-features">
                                     <ul>
@@ -372,7 +372,7 @@
                                     </h4>
                                 </div>
                                 <div class="product-price">
-                                    ₹ 1786.54<span class="term">/ month</span>
+                                    ₹ 1786<span class="term">/ month</span>
                                 </div>
                                 <div class="product-features">
                                     <ul>
