@@ -250,7 +250,7 @@
                                             <strong>16 GB</strong> ECC Memory
                                         </li>
                                         <li>
-                                            <strong>8 Core</strong> Intel&reg; Processor
+                                            <strong>6 Core</strong> Intel&reg; Processor
                                         </li>
                                         <li>
                                             <strong>480 GB</strong> RAID 10 SSD Storage
@@ -505,7 +505,7 @@
                                             <strong>16 GB</strong> ECC Memory
                                         </li>
                                         <li>
-                                            <strong>8 Core</strong> Intel&reg; Processor
+                                            <strong>6 Core</strong> Intel&reg; Processor
                                         </li>
                                         <li>
                                             <strong>480 GB</strong> RAID 10 SSD Storage
