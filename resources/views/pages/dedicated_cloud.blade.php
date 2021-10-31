@@ -35,7 +35,7 @@
                                     </p>
                                 </div>
                                 <div class="product-price">
-                                    ₹ 18.08<span class="term">/ hour</span>
+                                    ₹ 7.29<span class="term">/ hour</span>
                                 </div>
                                 <div class="product-features">
                                     <ul>
@@ -82,7 +82,7 @@
                                     </p>
                                 </div>
                                 <div class="product-price">
-                                    ₹ 36.14<span class="term">/ hour</span>
+                                    ₹ 14.58<span class="term">/ hour</span>
                                 </div>
                                 <div class="product-features">
                                     <ul>
@@ -133,7 +133,7 @@
                                     </p>
                                 </div>
                                 <div class="product-price">
-                                    ₹ 10539.86<span class="term">/ month</span>
+                                    ₹ 5250<span class="term">/ month</span>
                                 </div>
                                 <div class="product-features">
                                     <ul>
@@ -180,7 +180,7 @@
                                     </p>
                                 </div>
                                 <div class="product-price">
-                                    ₹ 21095.32<span class="term">/ month</span>
+                                    ₹ 10500<span class="term">/ month</span>
                                 </div>
                                 <div class="product-features">
                                     <ul>
