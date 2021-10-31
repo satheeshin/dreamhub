@@ -156,19 +156,19 @@
                             <div class="product-box">
                                 <div class="product-header">
                                     <h4>
-                                        Cloud Server 16G
+                                        KVM Server 4G
                                     </h4>
                                 </div>
                                 <div class="product-price">
-                                    ₹ 5.20<span class="term">/ hour</span>
+                                    ₹ 1.38<span class="term">/ hour</span>
                                 </div>
                                 <div class="product-features">
                                     <ul>
                                         <li>
-                                            <strong>16 GB</strong> ECC Memory
+                                            <strong>4 GB</strong> ECC Memory
                                         </li>
                                         <li>
-                                            <strong>8 Core</strong> Intel&reg; Processor
+                                            <strong>2 Core</strong> Intel&reg; Processor
                                         </li>
                                         <li>
                                             <strong>160 GB</strong> RAID 10 SSD Storage
@@ -197,19 +197,19 @@
                             <div class="product-box">
                                 <div class="product-header">
                                     <h4>
-                                        Cloud Server 32G
+                                        KVM Server 8G
                                     </h4>
                                 </div>
                                 <div class="product-price">
-                                    ₹ 10.04<span class="term">/ hour</span>
+                                    ₹ 2.08<span class="term">/ hour</span>
                                 </div>
                                 <div class="product-features">
                                     <ul>
                                         <li>
-                                            <strong>32 GB</strong> ECC Memory
+                                            <strong>8 GB</strong> ECC Memory
                                         </li>
                                         <li>
-                                            <strong>16 Core</strong> Intel&reg; Processor
+                                            <strong>4 Core</strong> Intel&reg; Processor
                                         </li>
                                         <li>
                                             <strong>240 GB</strong> RAID 10 SSD Storage
@@ -238,19 +238,19 @@
                             <div class="product-box">
                                 <div class="product-header">
                                     <h4>
-                                        Cloud Server 64G
+                                        KVM Server 16G
                                     </h4>
                                 </div>
                                 <div class="product-price">
-                                    ₹ 20.08<span class="term">/ hour</span>
+                                    ₹ 3.47<span class="term">/ hour</span>
                                 </div>
                                 <div class="product-features">
                                     <ul>
                                         <li>
-                                            <strong>64 GB</strong> ECC Memory
+                                            <strong>16 GB</strong> ECC Memory
                                         </li>
                                         <li>
-                                            <strong>24 Core</strong> Intel&reg; Processor
+                                            <strong>8 Core</strong> Intel&reg; Processor
                                         </li>
                                         <li>
                                             <strong>480 GB</strong> RAID 10 SSD Storage
@@ -411,19 +411,19 @@
                             <div class="product-box">
                                 <div class="product-header">
                                     <h4>
-                                        Cloud Server 16G
+                                        KVM Server 4G
                                     </h4>
                                 </div>
                                 <div class="product-price">
-                                    ₹ 3192.22<span class="term">/ month</span>
+                                    ₹ 1000<span class="term">/ month</span>
                                 </div>
                                 <div class="product-features">
                                     <ul>
                                         <li>
-                                            <strong>16 GB</strong> ECC Memory
+                                            <strong>4 GB</strong> ECC Memory
                                         </li>
                                         <li>
-                                            <strong>8 Core</strong> Intel&reg; Processor
+                                            <strong>2 Core</strong> Intel&reg; Processor
                                         </li>
                                         <li>
                                             <strong>160 GB</strong> RAID 10 SSD Storage
@@ -452,19 +452,19 @@
                             <div class="product-box">
                                 <div class="product-header">
                                     <h4>
-                                        Cloud Server 32G
+                                        KVM Server 8G
                                     </h4>
                                 </div>
                                 <div class="product-price">
-                                    ₹ 6003.58<span class="term">/ month</span>
+                                    ₹ 1500<span class="term">/ month</span>
                                 </div>
                                 <div class="product-features">
                                     <ul>
                                         <li>
-                                            <strong>32 GB</strong> ECC Memory
+                                            <strong>8 GB</strong> ECC Memory
                                         </li>
                                         <li>
-                                            <strong>16 Core</strong> Intel&reg; Processor
+                                            <strong>4 Core</strong> Intel&reg; Processor
                                         </li>
                                         <li>
                                             <strong>240 GB</strong> RAID 10 SSD Storage
@@ -493,19 +493,19 @@
                             <div class="product-box">
                                 <div class="product-header">
                                     <h4>
-                                        Cloud Server 64G
+                                        KVM Server 16G
                                     </h4>
                                 </div>
                                 <div class="product-price">
-                                    ₹ 12007.16<span class="term">/ month</span>
+                                    ₹ 2500<span class="term">/ month</span>
                                 </div>
                                 <div class="product-features">
                                     <ul>
                                         <li>
-                                            <strong>64 GB</strong> ECC Memory
+                                            <strong>16 GB</strong> ECC Memory
                                         </li>
                                         <li>
-                                            <strong>24 Core</strong> Intel&reg; Processor
+                                            <strong>8 Core</strong> Intel&reg; Processor
                                         </li>
                                         <li>
                                             <strong>480 GB</strong> RAID 10 SSD Storage
