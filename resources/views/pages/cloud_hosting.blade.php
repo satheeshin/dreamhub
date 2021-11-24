@@ -338,7 +338,7 @@
 							</tr>
 							<tr>
 								<td>1 Dedicated IP Address</td>
-								<td>₹ 100<small>/ month</small></td>
+								<td>₹ 400<small>/ month</small></td>
 							</tr>
 						</tbody>
 					</table>
