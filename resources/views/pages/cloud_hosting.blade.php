@@ -530,7 +530,7 @@
 						<td><i class="fas fa-check text-color-primary"></i></td>
 					</tr>
 					<tr>
-						<td>PHP 7.2</td>
+						<td>PHP 7.3 ,7.4 , 8</td>
 						<td><i class="fas fa-check text-color-primary"></i></td>
 						<td><i class="fas fa-check text-color-primary"></i></td>
 						<td><i class="fas fa-check text-color-primary"></i></td>
