@@ -459,12 +459,12 @@
 					</tr>
 					<tr>
 						<td>Domains Allowed</td>
+						<td>1</td>
 						<td>5</td>
-						<td>15</td>
-						<td>25</td>
+						<td>10</td>
 					</tr>
 					<tr>
-						<td>Dedicated IP Address</td>
+						<td>SSH Access</td>
 						<td><i class="fas fa-check text-color-primary"></i></td>
 						<td><i class="fas fa-check text-color-primary"></i></td>
 						<td><i class="fas fa-check text-color-primary"></i></td>
