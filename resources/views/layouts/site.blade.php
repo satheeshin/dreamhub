@@ -112,7 +112,7 @@
 									</h5>
 									<ul class="list-style-icon">
 										<li>
-											<a href="#facebook"><i class="fab fa-facebook"></i>Facebook</a>
+											<a href="https://www.facebook.com/dreamhostindia"><i class="fab fa-facebook"></i>Facebook</a>
 										</li>
 										<li>
 											<a href="#twitter"><i class="fab fa-twitter"></i>Twitter</a>
