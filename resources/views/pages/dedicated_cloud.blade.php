@@ -147,7 +147,7 @@
                                             <strong>480 GB</strong> RAID 10 SSD Storage
                                         </li>
                                         <li>
-                                            <strong>20 TB</strong> Premium Bandwidth
+                                            <strong>50 TB</strong> Premium Bandwidth
                                         </li>
                                     </ul>
                                     <ul>
@@ -194,7 +194,7 @@
                                             <strong>960 GB</strong> RAID 10 SSD Storage
                                         </li>
                                         <li>
-                                            <strong>40 TB</strong> Premium Bandwidth
+                                            <strong>100 TB</strong> Premium Bandwidth
                                         </li>
                                     </ul>
                                     <ul>
