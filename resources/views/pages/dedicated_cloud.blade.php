@@ -60,7 +60,7 @@
                                             100% Uptime SLA
                                         </li>
                                         <li>
-                                            5 Gbit Uplink
+                                            1 Gbit Uplink
                                         </li>
                                     </ul>
                                 </div>
@@ -141,7 +141,7 @@
                                             <strong>32 GB</strong> ECC Memory
                                         </li>
                                         <li>
-                                            <strong>16 Core</strong> Intel&reg; Processor
+                                            <strong>8 Core</strong> Intel&reg; Processor
                                         </li>
                                         <li>
                                             <strong>480 GB</strong> RAID 10 SSD Storage
@@ -205,7 +205,7 @@
                                             100% Uptime SLA
                                         </li>
                                         <li>
-                                            10 Gbit Uplink
+                                            1 Gbit Uplink
                                         </li>
                                     </ul>
                                 </div>
