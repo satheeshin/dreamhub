@@ -43,13 +43,13 @@
                                             <strong>32 GB</strong> ECC Memory
                                         </li>
                                         <li>
-                                            <strong>16 Core</strong> Intel&reg; Processor
+                                            <strong>8 Core</strong> Intel&reg; Processor
                                         </li>
                                         <li>
                                             <strong>480 GB</strong> RAID 10 SSD Storage
                                         </li>
                                         <li>
-                                            <strong>20 TB</strong> Premium Bandwidth
+                                            <strong>50 TB</strong> Premium Bandwidth
                                         </li>
                                     </ul>
                                     <ul>
@@ -90,13 +90,13 @@
                                             <strong>64 GB</strong> ECC Memory
                                         </li>
                                         <li>
-                                            <strong>32 Core</strong> Intel&reg; Processor
+                                            <strong>16 Core</strong> Intel&reg; Processor
                                         </li>
                                         <li>
                                             <strong>960 GB</strong> RAID 10 SSD Storage
                                         </li>
                                         <li>
-                                            <strong>40 TB</strong> Premium Bandwidth
+                                            <strong>100 TB</strong> Premium Bandwidth
                                         </li>
                                     </ul>
                                     <ul>
@@ -107,7 +107,7 @@
                                             100% Uptime SLA
                                         </li>
                                         <li>
-                                            10 Gbit Uplink
+                                            1 Gbit Uplink
                                         </li>
                                     </ul>
                                 </div>
@@ -158,7 +158,7 @@
                                             100% Uptime SLA
                                         </li>
                                         <li>
-                                            5 Gbit Uplink
+                                            1 Gbit Uplink
                                         </li>
                                     </ul>
                                 </div>
