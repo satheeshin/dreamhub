@@ -43,7 +43,7 @@
                                             <strong>32 GB</strong> ECC Memory
                                         </li>
                                         <li>
-                                            <strong>4 Core</strong> Intel&reg; Processor
+                                            <strong>AMD Ryzen</strong>™   5 3600 Hexa-Core
                                         </li>
                                         <li>
                                             <strong>480 GB</strong> RAID 10 SSD Storage
@@ -90,7 +90,7 @@
                                             <strong>64 GB</strong> ECC Memory
                                         </li>
                                         <li>
-                                            <strong>6 Core</strong> Intel&reg; Processor
+                                            <strong>AMD Ryzen</strong>™ 7 3700X Octa-Core
                                         </li>
                                         <li>
                                             <strong>960 GB</strong> RAID 10 SSD Storage
@@ -141,7 +141,7 @@
                                             <strong>32 GB</strong> ECC Memory
                                         </li>
                                         <li>
-                                            <strong>4 Core</strong> Intel&reg; Processor
+                                            <strong>AMD Ryzen</strong>™   5 3600 Hexa-Core
                                         </li>
                                         <li>
                                             <strong>480 GB</strong> RAID 10 SSD Storage
@@ -188,7 +188,7 @@
                                             <strong>64 GB</strong> ECC Memory
                                         </li>
                                         <li>
-                                            <strong>6 Core</strong> Intel&reg; Processor
+                                            <strong>AMD Ryzen</strong>™ 7 3700X Octa-Core
                                         </li>
                                         <li>
                                             <strong>960 GB</strong> RAID 10 SSD Storage
