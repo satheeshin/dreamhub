@@ -101,7 +101,7 @@
 							<p>
 								We provide cloud based enterprise hosting, server and storage solutions of unmatched quality. Feel free to visit or contact us for a custom quote.<br><br>
 								1/163, SMG Pudur, P.K.Palayam (PO) Tirupur<br>
-								Coimbatore TN 641665 ph:6379108040
+								Coimbatore TN 641665 ph:7799089075
 							</p>
 						</div>
 						<div class="column-66">
