@@ -71,7 +71,7 @@
 					</ul>
 					<ul class="nav-secondary">
 						<li>
-							<a href="{{ cpurl('contact.php') }}"><i class="fas fa-phone icon-left"></i>+91 6379108040</a>
+							<a href="{{ cpurl('contact.php') }}"><i class="fas fa-phone icon-left"></i>+91 7799089075</a>
 						</li>
 						<li>
 						<a href="{{ cpurl('submitticket.php?step=2&deptid=1') }}"><i class="fas fa-comment icon-left"></i>Open Ticket</a>
