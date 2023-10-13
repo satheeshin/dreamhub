@@ -71,7 +71,7 @@
 					</ul>
 					<ul class="nav-secondary">
 						<li>
-							<a href="{{ cpurl('contact.php') }}"><i class="fas fa-phone icon-left"></i>+91 6379108040</a>
+							<a href="{{ cpurl('contact.php') }}"><i class="fas fa-phone icon-left"></i>+91 7799089075</a>
 						</li>
 						<li>
 						<a href="{{ cpurl('submitticket.php?step=2&deptid=1') }}"><i class="fas fa-comment icon-left"></i>Open Ticket</a>
@@ -101,7 +101,7 @@
 							<p>
 								We provide cloud based enterprise hosting, server and storage solutions of unmatched quality. Feel free to visit or contact us for a custom quote.<br><br>
 								1/163, SMG Pudur, P.K.Palayam (PO) Tirupur<br>
-								Coimbatore TN 641665 ph:6379108040
+								Coimbatore TN 641665 ph:7799089075
 							</p>
 						</div>
 						<div class="column-66">
